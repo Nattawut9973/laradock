@@ -1,0 +1,1168 @@
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Dec 22 06:46:15.936516 2021] [mpm_event:notice] [pid 26:tid 140186950593472] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Dec 22 06:46:15.936672 2021] [core:notice] [pid 26:tid 140186950593472] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Dec 22 09:19:12.338423 2021] [core:warn] [pid 25:tid 140350168132544] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 22 09:19:12.339246 2021] [mpm_event:notice] [pid 25:tid 140350168132544] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Dec 22 09:19:12.339257 2021] [core:notice] [pid 25:tid 140350168132544] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Dec 22 09:55:14.647418 2021] [core:warn] [pid 26:tid 140475022941120] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 22 09:55:14.648546 2021] [mpm_event:notice] [pid 26:tid 140475022941120] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Dec 22 09:55:14.648562 2021] [core:notice] [pid 26:tid 140475022941120] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Dec 22 10:00:47.433599 2021] [core:warn] [pid 26:tid 140544313314240] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 22 10:00:47.434401 2021] [mpm_event:notice] [pid 26:tid 140544313314240] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Dec 22 10:00:47.434414 2021] [core:notice] [pid 26:tid 140544313314240] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Dec 22 10:22:19.682264 2021] [mpm_event:notice] [pid 26:tid 140544313314240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Dec 22 10:22:19.699556 2021] [mpm_event:notice] [pid 26:tid 140544313314240] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Dec 22 10:22:19.699566 2021] [core:notice] [pid 26:tid 140544313314240] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Dec 23 02:10:35.211431 2021] [core:warn] [pid 27:tid 139912512723904] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 23 02:10:35.219038 2021] [mpm_event:notice] [pid 27:tid 139912512723904] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Dec 23 02:10:35.219085 2021] [core:notice] [pid 27:tid 139912512723904] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Dec 23 02:23:50.387939 2021] [mpm_event:notice] [pid 27:tid 139912512723904] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Dec 23 02:23:50.397312 2021] [mpm_event:notice] [pid 27:tid 139912512723904] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Dec 23 02:23:50.397320 2021] [core:notice] [pid 27:tid 139912512723904] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Dec 24 02:16:20.719251 2021] [core:warn] [pid 27:tid 140393628400576] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 24 02:16:20.730575 2021] [mpm_event:notice] [pid 27:tid 140393628400576] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Dec 24 02:16:20.730604 2021] [core:notice] [pid 27:tid 140393628400576] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Dec 24 03:25:43.640981 2021] [mpm_event:notice] [pid 26:tid 139979158162368] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Dec 24 03:25:43.641088 2021] [core:notice] [pid 26:tid 139979158162368] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Dec 24 04:12:10.353713 2021] [mpm_event:notice] [pid 27:tid 139732543339456] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Dec 24 04:12:10.353845 2021] [core:notice] [pid 27:tid 139732543339456] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Jan 04 02:40:42.504834 2022] [core:warn] [pid 27:tid 139882723797952] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 04 02:40:42.515222 2022] [mpm_event:notice] [pid 27:tid 139882723797952] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Jan 04 02:40:42.515235 2022] [core:notice] [pid 27:tid 139882723797952] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Jan 04 09:17:02.868612 2022] [core:warn] [pid 27:tid 139650784951232] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 04 09:17:02.870632 2022] [mpm_event:notice] [pid 27:tid 139650784951232] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Jan 04 09:17:02.870656 2022] [core:notice] [pid 27:tid 139650784951232] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Jan 11 09:36:43.096413 2022] [core:warn] [pid 27:tid 140308436216768] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 11 09:36:43.102317 2022] [mpm_event:notice] [pid 27:tid 140308436216768] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Jan 11 09:36:43.102444 2022] [core:notice] [pid 27:tid 140308436216768] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Jan 12 01:05:43.105344 2022] [core:warn] [pid 27:tid 139731075546048] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 12 01:05:43.112510 2022] [mpm_event:notice] [pid 27:tid 139731075546048] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Jan 12 01:05:43.112529 2022] [core:notice] [pid 27:tid 139731075546048] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Jan 12 03:41:32.694663 2022] [core:warn] [pid 26:tid 140511487806400] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 12 03:41:32.695595 2022] [mpm_event:notice] [pid 26:tid 140511487806400] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Jan 12 03:41:32.695613 2022] [core:notice] [pid 26:tid 140511487806400] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Jan 13 03:07:25.171356 2022] [core:warn] [pid 27:tid 139952359115712] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 13 03:07:25.175634 2022] [mpm_event:notice] [pid 27:tid 139952359115712] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Jan 13 03:07:25.175649 2022] [core:notice] [pid 27:tid 139952359115712] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Jan 13 08:33:50.966154 2022] [core:warn] [pid 27:tid 139841084476352] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 13 08:33:50.967552 2022] [mpm_event:notice] [pid 27:tid 139841084476352] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Jan 13 08:33:50.967572 2022] [core:notice] [pid 27:tid 139841084476352] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Jan 14 02:19:02.461379 2022] [core:warn] [pid 27:tid 139630729419712] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 14 02:19:02.466113 2022] [mpm_event:notice] [pid 27:tid 139630729419712] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Jan 14 02:19:02.466131 2022] [core:notice] [pid 27:tid 139630729419712] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Jan 14 02:42:17.975867 2022] [core:warn] [pid 26:tid 139935817579456] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 14 02:42:17.977195 2022] [mpm_event:notice] [pid 26:tid 139935817579456] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Jan 14 02:42:17.977219 2022] [core:notice] [pid 26:tid 139935817579456] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Jan 14 03:46:42.799410 2022] [mpm_event:notice] [pid 28:tid 140022132124608] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Jan 14 03:46:42.799790 2022] [core:notice] [pid 28:tid 140022132124608] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Sun Jan 16 12:53:23.762717 2022] [core:warn] [pid 27:tid 139731880557504] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 16 12:53:23.767020 2022] [mpm_event:notice] [pid 27:tid 139731880557504] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Sun Jan 16 12:53:23.767042 2022] [core:notice] [pid 27:tid 139731880557504] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Jan 17 02:19:46.116232 2022] [core:warn] [pid 27:tid 140011211819968] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 17 02:19:46.120954 2022] [mpm_event:notice] [pid 27:tid 140011211819968] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Jan 17 02:19:46.120969 2022] [core:notice] [pid 27:tid 140011211819968] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Jan 17 07:25:37.658611 2022] [core:warn] [pid 26:tid 140096696200128] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 17 07:25:37.659512 2022] [mpm_event:notice] [pid 26:tid 140096696200128] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Jan 17 07:25:37.659529 2022] [core:notice] [pid 26:tid 140096696200128] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Jan 17 09:23:40.262344 2022] [core:warn] [pid 26:tid 140317820218304] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 17 09:23:40.263344 2022] [mpm_event:notice] [pid 26:tid 140317820218304] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Jan 17 09:23:40.263360 2022] [core:notice] [pid 26:tid 140317820218304] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Jan 19 02:59:57.033645 2022] [core:warn] [pid 27:tid 140312014588864] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 19 02:59:57.037984 2022] [mpm_event:notice] [pid 27:tid 140312014588864] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Jan 19 02:59:57.038002 2022] [core:notice] [pid 27:tid 140312014588864] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Jan 20 09:35:33.530422 2022] [core:warn] [pid 27:tid 140026367486912] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 20 09:35:33.535171 2022] [mpm_event:notice] [pid 27:tid 140026367486912] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Jan 20 09:35:33.535196 2022] [core:notice] [pid 27:tid 140026367486912] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Jan 21 02:26:43.806507 2022] [core:warn] [pid 27:tid 140182802111424] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 21 02:26:43.810586 2022] [mpm_event:notice] [pid 27:tid 140182802111424] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Jan 21 02:26:43.810598 2022] [core:notice] [pid 27:tid 140182802111424] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Jan 21 03:25:59.488427 2022] [core:warn] [pid 26:tid 140473658465216] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 21 03:25:59.489249 2022] [mpm_event:notice] [pid 26:tid 140473658465216] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Jan 21 03:25:59.489261 2022] [core:notice] [pid 26:tid 140473658465216] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Jan 26 03:32:26.059621 2022] [core:warn] [pid 27:tid 139827207171008] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 26 03:32:26.063817 2022] [mpm_event:notice] [pid 27:tid 139827207171008] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Jan 26 03:32:26.063832 2022] [core:notice] [pid 27:tid 139827207171008] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Jan 27 03:27:54.404819 2022] [core:warn] [pid 27:tid 140305802464192] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 27 03:27:54.409069 2022] [mpm_event:notice] [pid 27:tid 140305802464192] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Jan 27 03:27:54.409087 2022] [core:notice] [pid 27:tid 140305802464192] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Jan 31 05:01:41.107287 2022] [core:warn] [pid 27:tid 140679790111680] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 31 05:01:41.115449 2022] [mpm_event:notice] [pid 27:tid 140679790111680] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Jan 31 05:01:41.115473 2022] [core:notice] [pid 27:tid 140679790111680] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Jan 31 09:24:58.530921 2022] [core:warn] [pid 27:tid 140379082333120] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 31 09:24:58.536258 2022] [mpm_event:notice] [pid 27:tid 140379082333120] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Jan 31 09:24:58.536298 2022] [core:notice] [pid 27:tid 140379082333120] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Feb 01 02:35:17.531759 2022] [core:warn] [pid 27:tid 140504859184064] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 01 02:35:17.535958 2022] [mpm_event:notice] [pid 27:tid 140504859184064] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Feb 01 02:35:17.535976 2022] [core:notice] [pid 27:tid 140504859184064] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Feb 01 06:52:32.057803 2022] [core:warn] [pid 27:tid 140050566552512] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 01 06:52:32.062141 2022] [mpm_event:notice] [pid 27:tid 140050566552512] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Feb 01 06:52:32.062156 2022] [core:notice] [pid 27:tid 140050566552512] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Feb 01 07:10:50.223554 2022] [core:warn] [pid 21:tid 140552475200448] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 01 07:10:50.228601 2022] [mpm_event:notice] [pid 21:tid 140552475200448] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Feb 01 07:10:50.228623 2022] [core:notice] [pid 21:tid 140552475200448] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 02 02:28:33.706868 2022] [core:warn] [pid 27:tid 140358872861632] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 02 02:28:33.711398 2022] [mpm_event:notice] [pid 27:tid 140358872861632] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 02 02:28:33.711437 2022] [core:notice] [pid 27:tid 140358872861632] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 02 02:32:39.703070 2022] [core:warn] [pid 26:tid 139629918661568] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 02 02:32:39.704205 2022] [mpm_event:notice] [pid 26:tid 139629918661568] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 02 02:32:39.704225 2022] [core:notice] [pid 26:tid 139629918661568] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 02 06:37:35.614704 2022] [mpm_event:notice] [pid 27:tid 140299093294016] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 02 06:37:35.615269 2022] [core:notice] [pid 27:tid 140299093294016] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 02 08:56:43.029100 2022] [mpm_event:notice] [pid 27:tid 140617638927296] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 02 08:56:43.029839 2022] [core:notice] [pid 27:tid 140617638927296] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 02 09:14:13.968003 2022] [core:warn] [pid 26:tid 140597637651392] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 02 09:14:13.968901 2022] [mpm_event:notice] [pid 26:tid 140597637651392] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 02 09:14:13.968915 2022] [core:notice] [pid 26:tid 140597637651392] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Feb 03 04:33:20.523051 2022] [core:warn] [pid 27:tid 140201390967744] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 03 04:33:20.527460 2022] [mpm_event:notice] [pid 27:tid 140201390967744] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Feb 03 04:33:20.527490 2022] [core:notice] [pid 27:tid 140201390967744] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Feb 04 01:51:14.678872 2022] [core:warn] [pid 27:tid 139921759886272] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 04 01:51:14.683869 2022] [mpm_event:notice] [pid 27:tid 139921759886272] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Feb 04 01:51:14.683899 2022] [core:notice] [pid 27:tid 139921759886272] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Feb 04 08:20:52.295151 2022] [core:warn] [pid 27:tid 139864956951488] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 04 08:20:52.296025 2022] [mpm_event:notice] [pid 27:tid 139864956951488] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Feb 04 08:20:52.296039 2022] [core:notice] [pid 27:tid 139864956951488] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Feb 04 10:27:33.633759 2022] [core:warn] [pid 25:tid 140617044634560] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 04 10:27:33.634591 2022] [mpm_event:notice] [pid 25:tid 140617044634560] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Feb 04 10:27:33.634606 2022] [core:notice] [pid 25:tid 140617044634560] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Feb 07 04:41:03.971630 2022] [core:warn] [pid 26:tid 140636388391872] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 07 04:41:03.975998 2022] [mpm_event:notice] [pid 26:tid 140636388391872] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Feb 07 04:41:03.976013 2022] [core:notice] [pid 26:tid 140636388391872] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Feb 08 01:49:52.166624 2022] [core:warn] [pid 27:tid 139907900742592] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 08 01:49:52.170855 2022] [mpm_event:notice] [pid 27:tid 139907900742592] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Feb 08 01:49:52.170868 2022] [core:notice] [pid 27:tid 139907900742592] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Feb 08 06:59:41.165936 2022] [core:warn] [pid 27:tid 140033955187648] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 08 06:59:41.170487 2022] [mpm_event:notice] [pid 27:tid 140033955187648] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Feb 08 06:59:41.170507 2022] [core:notice] [pid 27:tid 140033955187648] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Feb 08 08:40:09.337261 2022] [core:warn] [pid 27:tid 140600575794112] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 08 08:40:09.340010 2022] [mpm_event:notice] [pid 27:tid 140600575794112] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Feb 08 08:40:09.340033 2022] [core:notice] [pid 27:tid 140600575794112] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Feb 08 09:26:07.670907 2022] [core:warn] [pid 27:tid 140526016162752] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 08 09:26:07.672322 2022] [mpm_event:notice] [pid 27:tid 140526016162752] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Feb 08 09:26:07.672338 2022] [core:notice] [pid 27:tid 140526016162752] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 09 02:02:16.074271 2022] [core:warn] [pid 28:tid 140689388116928] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 09 02:02:16.078608 2022] [mpm_event:notice] [pid 28:tid 140689388116928] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 09 02:02:16.078620 2022] [core:notice] [pid 28:tid 140689388116928] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 09 03:28:14.804315 2022] [core:warn] [pid 26:tid 140081021930432] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 09 03:28:14.805137 2022] [mpm_event:notice] [pid 26:tid 140081021930432] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 09 03:28:14.805150 2022] [core:notice] [pid 26:tid 140081021930432] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 09 06:45:58.191128 2022] [mpm_event:notice] [pid 24:tid 140107450579904] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 09 06:45:58.191260 2022] [core:notice] [pid 24:tid 140107450579904] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 09 08:09:53.864763 2022] [mpm_event:notice] [pid 27:tid 140168180472768] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 09 08:09:53.865427 2022] [core:notice] [pid 27:tid 140168180472768] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 09 10:05:26.995937 2022] [core:warn] [pid 27:tid 139792236112832] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 09 10:05:26.997812 2022] [mpm_event:notice] [pid 27:tid 139792236112832] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 09 10:05:26.997835 2022] [core:notice] [pid 27:tid 139792236112832] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Feb 10 02:23:58.793289 2022] [mpm_event:notice] [pid 27:tid 140333758389184] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Feb 10 02:23:58.797054 2022] [core:notice] [pid 27:tid 140333758389184] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Feb 10 05:50:15.703717 2022] [mpm_event:notice] [pid 28:tid 139744608857024] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Feb 10 05:50:15.707573 2022] [core:notice] [pid 28:tid 139744608857024] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Feb 11 02:07:52.899727 2022] [core:warn] [pid 27:tid 139938955037632] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 11 02:07:52.903906 2022] [mpm_event:notice] [pid 27:tid 139938955037632] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Feb 11 02:07:52.903922 2022] [core:notice] [pid 27:tid 139938955037632] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Feb 11 02:25:06.715870 2022] [core:warn] [pid 26:tid 140526248025024] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 11 02:25:06.719965 2022] [mpm_event:notice] [pid 26:tid 140526248025024] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Feb 11 02:25:06.719979 2022] [core:notice] [pid 26:tid 140526248025024] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Feb 11 08:30:35.753156 2022] [core:warn] [pid 27:tid 139701350390720] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 11 08:30:35.757354 2022] [mpm_event:notice] [pid 27:tid 139701350390720] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Feb 11 08:30:35.757374 2022] [core:notice] [pid 27:tid 139701350390720] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Feb 14 01:56:43.847162 2022] [core:warn] [pid 27:tid 139972731575232] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 14 01:56:43.851480 2022] [mpm_event:notice] [pid 27:tid 139972731575232] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Feb 14 01:56:43.851500 2022] [core:notice] [pid 27:tid 139972731575232] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Feb 14 02:22:09.095953 2022] [core:warn] [pid 25:tid 140384624712640] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 14 02:22:09.097321 2022] [mpm_event:notice] [pid 25:tid 140384624712640] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Feb 14 02:22:09.097352 2022] [core:notice] [pid 25:tid 140384624712640] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Feb 21 04:02:59.263701 2022] [mpm_event:notice] [pid 26:tid 140106633886656] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Feb 21 04:02:59.264661 2022] [core:notice] [pid 26:tid 140106633886656] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Feb 22 01:59:55.329169 2022] [core:warn] [pid 27:tid 140043657595840] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 22 01:59:55.330808 2022] [mpm_event:notice] [pid 27:tid 140043657595840] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Feb 22 01:59:55.330830 2022] [core:notice] [pid 27:tid 140043657595840] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Feb 22 06:58:53.878061 2022] [core:warn] [pid 25:tid 140322543217600] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 22 06:58:53.878984 2022] [mpm_event:notice] [pid 25:tid 140322543217600] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Feb 22 06:58:53.879011 2022] [core:notice] [pid 25:tid 140322543217600] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 23 02:21:38.345779 2022] [core:warn] [pid 26:tid 139956917451712] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 23 02:21:38.347220 2022] [mpm_event:notice] [pid 26:tid 139956917451712] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 23 02:21:38.347232 2022] [core:notice] [pid 26:tid 139956917451712] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Feb 23 04:25:27.190599 2022] [core:warn] [pid 25:tid 139999538637760] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 23 04:25:27.191847 2022] [mpm_event:notice] [pid 25:tid 139999538637760] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Feb 23 04:25:27.191869 2022] [core:notice] [pid 25:tid 139999538637760] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Feb 24 03:31:14.847642 2022] [mpm_event:notice] [pid 25:tid 140703568460736] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Feb 24 03:31:14.848560 2022] [core:notice] [pid 25:tid 140703568460736] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Feb 25 06:22:36.463938 2022] [mpm_event:notice] [pid 26:tid 139634734640064] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Feb 25 06:22:36.464921 2022] [core:notice] [pid 26:tid 139634734640064] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Feb 28 02:27:10.838994 2022] [core:warn] [pid 26:tid 140640633314240] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 28 02:27:10.851752 2022] [mpm_event:notice] [pid 26:tid 140640633314240] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Feb 28 02:27:10.851774 2022] [core:notice] [pid 26:tid 140640633314240] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Feb 28 03:27:37.779862 2022] [core:warn] [pid 27:tid 139885141101504] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 28 03:27:37.781146 2022] [mpm_event:notice] [pid 27:tid 139885141101504] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Feb 28 03:27:37.781163 2022] [core:notice] [pid 27:tid 139885141101504] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Mar 01 03:34:03.574739 2022] [core:warn] [pid 27:tid 140258345839552] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 01 03:34:03.577884 2022] [mpm_event:notice] [pid 27:tid 140258345839552] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Mar 01 03:34:03.577907 2022] [core:notice] [pid 27:tid 140258345839552] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Mar 01 06:07:26.267517 2022] [core:warn] [pid 27:tid 140126166657984] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 01 06:07:26.269238 2022] [mpm_event:notice] [pid 27:tid 140126166657984] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Mar 01 06:07:26.269253 2022] [core:notice] [pid 27:tid 140126166657984] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Mar 01 09:47:51.982035 2022] [core:warn] [pid 27:tid 140054470634432] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 01 09:47:51.986004 2022] [mpm_event:notice] [pid 27:tid 140054470634432] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Mar 01 09:47:51.986019 2022] [core:notice] [pid 27:tid 140054470634432] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Mar 02 02:19:45.204608 2022] [core:warn] [pid 26:tid 140485460720576] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 02 02:19:45.206545 2022] [mpm_event:notice] [pid 26:tid 140485460720576] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Mar 02 02:19:45.206578 2022] [core:notice] [pid 26:tid 140485460720576] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Mar 02 02:22:32.565085 2022] [core:warn] [pid 27:tid 139951163124672] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 02 02:22:32.569270 2022] [mpm_event:notice] [pid 27:tid 139951163124672] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Mar 02 02:22:32.569291 2022] [core:notice] [pid 27:tid 139951163124672] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Mar 02 04:26:59.510434 2022] [core:warn] [pid 27:tid 139800532237248] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 02 04:26:59.514631 2022] [mpm_event:notice] [pid 27:tid 139800532237248] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Mar 02 04:26:59.514646 2022] [core:notice] [pid 27:tid 139800532237248] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Mar 03 02:51:07.196353 2022] [core:warn] [pid 27:tid 140233028312000] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 03 02:51:07.198035 2022] [mpm_event:notice] [pid 27:tid 140233028312000] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Mar 03 02:51:07.198051 2022] [core:notice] [pid 27:tid 140233028312000] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Mar 04 02:40:44.814966 2022] [core:warn] [pid 27:tid 139643873414080] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 04 02:40:44.816724 2022] [mpm_event:notice] [pid 27:tid 139643873414080] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Mar 04 02:40:44.816740 2022] [core:notice] [pid 27:tid 139643873414080] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Mar 07 02:49:30.245476 2022] [core:warn] [pid 27:tid 139922995059648] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 07 02:49:30.247130 2022] [mpm_event:notice] [pid 27:tid 139922995059648] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Mar 07 02:49:30.247148 2022] [core:notice] [pid 27:tid 139922995059648] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Mon Mar 07 03:52:53.868059 2022] [core:warn] [pid 27:tid 140689861430208] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 07 03:52:53.869510 2022] [mpm_event:notice] [pid 27:tid 140689861430208] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Mar 07 03:52:53.869524 2022] [core:notice] [pid 27:tid 140689861430208] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Mar 08 02:35:18.239802 2022] [core:warn] [pid 27:tid 140447759293376] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 08 02:35:18.242492 2022] [mpm_event:notice] [pid 27:tid 140447759293376] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Mar 08 02:35:18.242519 2022] [core:notice] [pid 27:tid 140447759293376] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Mar 08 02:47:06.213161 2022] [core:warn] [pid 27:tid 140474293840832] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 08 02:47:06.217272 2022] [mpm_event:notice] [pid 27:tid 140474293840832] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Mar 08 02:47:06.217300 2022] [core:notice] [pid 27:tid 140474293840832] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Mar 08 09:46:38.787165 2022] [core:warn] [pid 27:tid 140691527150528] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 08 09:46:38.788223 2022] [mpm_event:notice] [pid 27:tid 140691527150528] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Mar 08 09:46:38.788236 2022] [core:notice] [pid 27:tid 140691527150528] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Mar 09 02:36:19.489048 2022] [core:warn] [pid 27:tid 139692306336704] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 09 02:36:19.490535 2022] [mpm_event:notice] [pid 27:tid 139692306336704] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Mar 09 02:36:19.490550 2022] [core:notice] [pid 27:tid 139692306336704] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Mar 09 02:51:25.701421 2022] [core:warn] [pid 27:tid 139634437569472] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 09 02:51:25.705279 2022] [mpm_event:notice] [pid 27:tid 139634437569472] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Mar 09 02:51:25.705291 2022] [core:notice] [pid 27:tid 139634437569472] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Wed Mar 09 03:13:50.321373 2022] [core:warn] [pid 28:tid 140391340579776] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 09 03:13:50.325541 2022] [mpm_event:notice] [pid 28:tid 140391340579776] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Mar 09 03:13:50.325559 2022] [core:notice] [pid 28:tid 140391340579776] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Mar 10 03:11:33.163420 2022] [mpm_event:notice] [pid 27:tid 140090265484224] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Mar 10 03:11:33.164296 2022] [core:notice] [pid 27:tid 140090265484224] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Mar 10 03:55:14.483221 2022] [core:warn] [pid 26:tid 140353099140032] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 10 03:55:14.484153 2022] [mpm_event:notice] [pid 26:tid 140353099140032] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Mar 10 03:55:14.484167 2022] [core:notice] [pid 26:tid 140353099140032] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Thu Mar 10 04:10:27.804332 2022] [core:warn] [pid 25:tid 140609980795840] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 10 04:10:27.805331 2022] [mpm_event:notice] [pid 25:tid 140609980795840] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Mar 10 04:10:27.805348 2022] [core:notice] [pid 25:tid 140609980795840] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Fri Mar 11 02:56:06.308119 2022] [mpm_event:notice] [pid 27:tid 140380597967808] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Mar 11 02:56:06.308967 2022] [core:notice] [pid 27:tid 140380597967808] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cdn.rvtheme.com.main] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/home/laradock/rvsitebuildercms/cms.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/sb7main/license3.rvglobalsoft.com.main/public] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/netwaymain/netway.co.th.main/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/domains/rvglobalsoftmain/rvglobalsoft.com/public_html] does not exist
+[Tue Mar 15 03:00:27.769760 2022] [core:warn] [pid 27:tid 140343802788800] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 15 03:00:27.771310 2022] [mpm_event:notice] [pid 27:tid 140343802788800] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Tue Mar 15 03:00:27.771327 2022] [core:notice] [pid 27:tid 140343802788800] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
